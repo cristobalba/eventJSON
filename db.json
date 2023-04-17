@@ -10,35 +10,5 @@
         "name": "Drake Clarke",
         "address": "200 Underhill Avenue, Gallina, Arizona, 5951",
         "price": 798
-      },
-      {
-        "date": "Thu Jan 26 1989 19:07:25 GMT-0300 (hora de verano de Chile)",
-        "name": "Hilda Figueroa",
-        "address": "961 Reeve Place, Blende, Guam, 7801",
-        "price": 822
-      },
-      {
-        "date": "Thu May 17 1973 23:04:45 GMT-0400 (hora estándar de Chile)",
-        "name": "Nolan Hendrix",
-        "address": "861 Charles Place, Sunbury, Indiana, 4100",
-        "price": 402
-      },
-      {
-        "date": "Tue May 29 2001 10:48:16 GMT-0400 (hora estándar de Chile)",
-        "name": "Knight Kirkland",
-        "address": "887 Dunne Place, Canterwood, Nebraska, 2436",
-        "price": 120
-      },
-      {
-        "date": "Wed Jun 17 2009 03:15:48 GMT-0400 (hora estándar de Chile)",
-        "name": "Walton Gardner",
-        "address": "946 Colonial Court, Shelby, Michigan, 1779",
-        "price": 335
-      },
-      {
-        "date": "Thu Oct 17 1985 04:18:51 GMT-0300 (hora de verano de Chile)",
-        "name": "Deirdre Sears",
-        "address": "574 Portland Avenue, Kylertown, Northern Mariana Islands, 4714",
-        "price": 968
       }
 }
